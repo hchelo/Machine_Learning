@@ -1,5 +1,5 @@
 # Marcelo Saavedra Alcoba
-# Curso Ciencia de Datos Unifranz
+# Curso Ciencia de Datos 
 # Clasificador Naive Bayes 
 
 from sklearn.datasets import load_iris
