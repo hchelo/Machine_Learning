@@ -1,3 +1,4 @@
+# example of Neural-SOM with Iris Dataset, edited by MSaavedra
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
