@@ -1,3 +1,5 @@
+# Example of SOM with LATAM Poverty map, according to CEPAL/ECLAC data of 2022
+# Edited by MSaavedra
 import numpy as np
 import pandas as pd
 from minisom import MiniSom
